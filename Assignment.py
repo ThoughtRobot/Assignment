@@ -4,7 +4,7 @@
 # In[2]:
 
 
-# install necessary packages to run this
+# install necessary modules to run this
 # -pip install flask
 # -pip install beautifulsoup4
 
